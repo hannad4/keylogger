@@ -10,7 +10,7 @@ It is primarily based off of [Ask Python's Creating a Python Keylogger in 10 Lin
     - The default logging time is 60 seconds (1 min)
     - User should enter logging time using -t when running the program 
 <br/><br/>
-### DISCLAIMER: USER ACCEPTS FULL ETHICAL, LEGAL, AND MORAL RESPONSIBILTY BY USING THIS PROGRAM.</b>
+### DISCLAIMER: USER ACCEPTS FULL ETHICAL, LEGAL, AND MORAL RESPONSIBILITY BY USING THIS PROGRAM.</b>
 <br/>
 
 *Note: There is a good chance antivirus will quarantine this program, in which case it should be added to whitelist*
